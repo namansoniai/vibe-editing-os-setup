@@ -1,0 +1,19 @@
+{
+  "name": "vibe-editing-os",
+  "owner": {
+    "name": "Naman Soni"
+  },
+  "description": "Vibe Editing OS: build your editing playbook, then edit raw talking-head clips into finished reels.",
+  "plugins": [
+    {
+      "name": "vibe-editing-os-setup",
+      "version": "0.7.1",
+      "description": "Installs Vibe Editing OS with your licence key.",
+      "source": {
+        "source": "archive",
+        "url": "https://github.com/namansoniai/vibe-editing-os-setup/releases/download/v0.7.1/vibe-editing-os-setup-0.7.1.zip",
+        "sha256": "4cce504102bed7e23b7e590a86f7c24a8fb40db7839e71b3ba3056f3c7161468"
+      }
+    }
+  ]
+}
